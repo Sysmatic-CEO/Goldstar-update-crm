@@ -1,5 +1,5 @@
 import './App.css';
-import ClientUpdateForm from './modules/ClientUpdateForm'
+import ClientUpdateForm from './modules/ClientUpdateForm/ClientUpdateForm'
 
 function App() {
   return (
