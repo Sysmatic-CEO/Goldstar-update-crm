@@ -1,15 +1,10 @@
 import './App.css';
+import ClientUpdateForm from './modules/clientUpdateForm/clientUpdateForm.js'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Hello World!
-        </p>
-      </header>
-    </div>
-  );
+    <ClientUpdateForm />
+    )
 }
 
 export default App;
